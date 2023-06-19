@@ -14,6 +14,5 @@ The project is broken down into multiple steps:
 
  Use the trained classifier to predict image content
 
- We'll lead you through each part which you'll implement in Python.
 
 You'll have an application that can be trained on any set of labeled images. Here our network will be learning about flowers and end up as a command line application. But, this new app can be used with another dataset depending on your imagination and effort in building a dataset. For example, imagine an app where you take a picture of a car, it tells you what the make and model is, then looks up information about it. Go build your own dataset and make something new.
